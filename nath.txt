@@ -3,3 +3,4 @@ mushraf
 in
 kabha
 mecca is good
+expecting to learn more about ci/cd tools
